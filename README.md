@@ -71,5 +71,17 @@ Proyect 15 [🎬 Film Junky Union - Sentiment Analysis Model]()
 
 📊 The final model will **enhance the user experience** by helping Film Junky Union filter out negative reviews efficiently.  
 
+Proyect 17 [📞 Interconnect - Customer Churn Prediction](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/Proyecto%2017%20%20Interconnect%20-%20Customer%20Churn%20Prediction%20final.ipynb)  
+🔍 *Developing a machine learning model to predict customer churn for the telecom company Interconnect.*  
+
+**Interconnect**, a telecommunications provider, aims to predict **customer churn rates** to improve retention strategies. If a user is identified as likely to leave, they will be offered **promotional codes and personalized offers** to encourage them to stay.  
+
+✔ **Dataset:** Historical customer data including service usage and cancellation history.  
+✔ **Objective:** Build a predictive model to detect customers at risk of churning.  
+✔ **Evaluation Metrics:** Model performance is assessed using **accuracy, recall, and F1-score**.  
+
+📊 The final model helps **Interconnect implement proactive retention strategies**, improving customer satisfaction and reducing churn.  
+
+
 
 
