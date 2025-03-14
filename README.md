@@ -1,7 +1,7 @@
 # Machine-Learning
 In this folder, you will find some projects where I practiced with different models of varying complexity.
 
-Proyect 9 [📡 Megaline Plan Recommendation](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/Proyecto_9_Compa%C3%B1ia_Movil_Megaline(Introduccion_Machine_Learning)  
+Proyect 9 [📡 Megaline Plan Recommendation]( https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/Proyecto_9_Compa%C3%B1ia_Movil_Megaline(Introduccion_Machine_Learning )  
 🚀 *Predicting the best mobile plan (Smart or Ultra) for Megaline customers based on their usage behavior
 
 Proyect 10 [🏦 Beta Bank Customer Churn Prediction](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P10_Clientes_Beta_Bank_(aprendizaje_supervisado)_.ipynb)  
@@ -26,4 +26,26 @@ This project follows these key steps:
 
 📊 The analysis ensures **data-driven decision-making** for maximizing OilyGiant's profitability while managing risk.  
 
-Proyect 12 
+Proyect 12 [🛡️ Sure Tomorrow Insurance Predictions](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P12_Proyecto_Compa%C3%B1ia_de_seguros_Matrices_.ipynb)  
+🔍 *Evaluating the potential of machine learning to optimize insurance-related tasks for Sure Tomorrow.*  
+
+As an analyst for **Sure Tomorrow Insurance**, this project explores how machine learning can enhance decision-making by solving key tasks:  
+
+✔ **Customer Similarity Analysis** – Identify clients similar to a given customer to assist marketing efforts.  
+✔ **Insurance Benefit Prediction** – Train a predictive model to determine if a new customer is likely to receive an insurance benefit and compare its performance against a dummy model.  
+✔ **Benefit Amount Estimation** – Use linear regression to predict the expected amount of insurance benefits a new customer may receive.  
+✔ **Data Privacy Protection** – Develop a data transformation algorithm that protects personal data without compromising machine learning model performance.  
+
+📊 The project includes **data masking (obfuscation)** techniques to ensure customer privacy while maintaining predictive accuracy.  
+
+Proyect 13 [🚗 Rusty Bargain Used Car Pricing Model](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P.13%20Proyecto%20compa%C3%B1ia%20Rusty%20Bargain%20es%20un%20servicio%20de%20venta%20de%20coches%20de%20segunda%20mano%20.ipynb)  
+🔍 *Developing a machine learning model to estimate the market value of used cars based on historical data, technical specifications, and equipment versions.*  
+
+As part of **Rusty Bargain's** initiative to enhance its used car sales service, this project focuses on building an **automated car valuation model**. The model aims to:  
+
+✔ **Ensure high prediction accuracy** to provide reliable market valuations.  
+✔ **Optimize prediction speed** for real-time usage within the app.  
+✔ **Minimize training time** to make the model efficient and scalable.  
+
+📊 The analysis evaluates multiple machine learning algorithms, balancing **accuracy, speed, and training time** to find the best-performing model.  
+
