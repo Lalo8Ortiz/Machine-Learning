@@ -1,10 +1,10 @@
 # Machine-Learning
 In this folder, you will find some projects where I practiced with different models of varying complexity.
 
-Proyect 9 [📡 Megaline Plan Recommendation]( https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/Proyecto_9_Compa%C3%B1ia_Movil_Megaline(Introduccion_Machine_Learning )  
+Project 9 [📡 Megaline Plan Recommendation]( https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/Proyecto_9_Compa%C3%B1ia_Movil_Megaline(Introduccion_Machine_Learning )  
 🚀 *Predicting the best mobile plan (Smart or Ultra) for Megaline customers based on their usage behavior
 
-Proyect 10 [🏦 Beta Bank Customer Churn Prediction](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P10_Clientes_Beta_Bank_(aprendizaje_supervisado)_.ipynb)  
+Project 10 [🏦 Beta Bank Customer Churn Prediction](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P10_Clientes_Beta_Bank_(aprendizaje_supervisado)_.ipynb)  
 🔍 *Predicting whether a customer will leave the bank using past behavior data and contract termination history.*  
 
 To help **Beta Bank** retain customers, this project develops a **classification model** to predict customer churn.  
@@ -12,7 +12,7 @@ The objective is to **maximize the F1-score**, ensuring a minimum threshold of *
 
 📊 Additionally, the **AUC-ROC metric** is measured and compared with the **F1-score** to evaluate model performance. 
 
-Proyect 11 [⛽ OilyGiant Oil Well Selection]([OilyGiant/oil_well_model.ipynb](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P11_Extraccion_de_pozos_Aprendizaje_automatico.ipynb))  
+Project 11 [⛽ OilyGiant Oil Well Selection]([OilyGiant/oil_well_model.ipynb](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P11_Extraccion_de_pozos_Aprendizaje_automatico.ipynb))  
 🔍 *Identifying the most profitable locations to open 200 new oil wells using predictive modeling and risk analysis.*  
 
 As an analyst for **OilyGiant**, the goal is to **predict oil reserves** in new wells and select the most profitable locations.  
@@ -38,7 +38,7 @@ As an analyst for **Sure Tomorrow Insurance**, this project explores how machine
 
 📊 The project includes **data masking (obfuscation)** techniques to ensure customer privacy while maintaining predictive accuracy.  
 
-Proyect 13 [🚗 Rusty Bargain Used Car Pricing Model](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P.13%20Proyecto%20compa%C3%B1ia%20Rusty%20Bargain%20es%20un%20servicio%20de%20venta%20de%20coches%20de%20segunda%20mano%20.ipynb)  
+Project 13 [🚗 Rusty Bargain Used Car Pricing Model](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P.13%20Proyecto%20compa%C3%B1ia%20Rusty%20Bargain%20es%20un%20servicio%20de%20venta%20de%20coches%20de%20segunda%20mano%20.ipynb)  
 🔍 *Developing a machine learning model to estimate the market value of used cars based on historical data, technical specifications, and equipment versions.*  
 
 As part of **Rusty Bargain's** initiative to enhance its used car sales service, this project focuses on building an **automated car valuation model**. The model aims to:  
@@ -49,7 +49,7 @@ As part of **Rusty Bargain's** initiative to enhance its used car sales service,
 
 📊 The analysis evaluates multiple machine learning algorithms, balancing **accuracy, speed, and training time** to find the best-performing model.  
 
-Proyect 14 [🚖 Sweet Lift Taxi Demand Prediction](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P.13%20Proyecto%20compa%C3%B1ia%20Rusty%20Bargain%20es%20un%20servicio%20de%20venta%20de%20coches%20de%20segunda%20mano%20.ipynb)  
+Project 14 [🚖 Sweet Lift Taxi Demand Prediction](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P.13%20Proyecto%20compa%C3%B1ia%20Rusty%20Bargain%20es%20un%20servicio%20de%20venta%20de%20coches%20de%20segunda%20mano%20.ipynb)  
 🔍 *Building a predictive model to forecast the number of taxi orders in airports for the next hour.*  
 
 **Sweet Lift Taxi** has collected **historical data on taxi orders at airports**. To attract more drivers during peak hours, this project develops a **time series forecasting model** to predict taxi demand.  
@@ -60,7 +60,7 @@ Proyect 14 [🚖 Sweet Lift Taxi Demand Prediction](https://github.com/Lalo8Orti
 
 📊 This model will help **increase driver availability**, improving service efficiency during high-demand periods.  
 
-Proyect 15 [🎬 Film Junky Union - Sentiment Analysis Model]()  
+Project 15 [🎬 Film Junky Union - Sentiment Analysis Model]()  
 🔍 *Training a machine learning model to automatically detect negative movie reviews from IMDB.*  
 
 **Film Junky Union**, a cutting-edge community for classic film enthusiasts, is developing a **review filtering and categorization system**. This project focuses on **training a sentiment analysis model** to classify movie reviews as **positive or negative**.  
@@ -71,7 +71,7 @@ Proyect 15 [🎬 Film Junky Union - Sentiment Analysis Model]()
 
 📊 The final model will **enhance the user experience** by helping Film Junky Union filter out negative reviews efficiently.  
 
-Proyect 17 [📞 Interconnect - Customer Churn Prediction](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/Proyecto%2017%20%20Interconnect%20-%20Customer%20Churn%20Prediction%20final.ipynb)  
+Project 17 [📞 Interconnect - Customer Churn Prediction](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/Proyecto%2017%20%20Interconnect%20-%20Customer%20Churn%20Prediction%20final.ipynb)  
 🔍 *Developing a machine learning model to predict customer churn for the telecom company Interconnect.*  
 
 **Interconnect**, a telecommunications provider, aims to predict **customer churn rates** to improve retention strategies. If a user is identified as likely to leave, they will be offered **promotional codes and personalized offers** to encourage them to stay.  
