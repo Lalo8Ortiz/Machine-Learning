@@ -49,3 +49,27 @@ As part of **Rusty Bargain's** initiative to enhance its used car sales service,
 
 📊 The analysis evaluates multiple machine learning algorithms, balancing **accuracy, speed, and training time** to find the best-performing model.  
 
+Proyect 14 [🚖 Sweet Lift Taxi Demand Prediction](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P.13%20Proyecto%20compa%C3%B1ia%20Rusty%20Bargain%20es%20un%20servicio%20de%20venta%20de%20coches%20de%20segunda%20mano%20.ipynb)  
+🔍 *Building a predictive model to forecast the number of taxi orders in airports for the next hour.*  
+
+**Sweet Lift Taxi** has collected **historical data on taxi orders at airports**. To attract more drivers during peak hours, this project develops a **time series forecasting model** to predict taxi demand.  
+
+✔ **Objective:** Predict the number of taxi orders for the next hour.  
+✔ **Evaluation Metric:** The RMSE (Root Mean Squared Error) on the test set must not exceed **48**.  
+✔ **Approach:** Time series analysis and machine learning models will be tested to optimize accuracy.  
+
+📊 This model will help **increase driver availability**, improving service efficiency during high-demand periods.  
+
+Proyect 15 [🎬 Film Junky Union - Sentiment Analysis Model]()  
+🔍 *Training a machine learning model to automatically detect negative movie reviews from IMDB.*  
+
+**Film Junky Union**, a cutting-edge community for classic film enthusiasts, is developing a **review filtering and categorization system**. This project focuses on **training a sentiment analysis model** to classify movie reviews as **positive or negative**.  
+
+✔ **Dataset:** IMDB movie reviews with labeled sentiment data.  
+✔ **Objective:** Detect negative reviews with high accuracy.  
+✔ **Evaluation Metric:** The model must achieve an **F1-score of at least 0.85**.  
+
+📊 The final model will **enhance the user experience** by helping Film Junky Union filter out negative reviews efficiently.  
+
+
+
